@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Naverblog-03C75A?style=flat&logo=Naver&logoColor=white"/>
 * my velog
   <a href="https://velog.io/@ui_seok">
-  <img src="http://img.shields.io/badge/velog-20C997?style=flat&logo=velog&link=https://velog.io/@ui_seok" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="http://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@ui_seok" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 * My baekjoon tier 👍
 
