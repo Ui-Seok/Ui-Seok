@@ -14,7 +14,6 @@
 <img src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=#000000&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
---- 
 
 * Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT
 
@@ -24,7 +23,6 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima)](https://solved.ac/kasasima)
 
 ### Study
-
 ---
 
 * Computer Vision 👀️
@@ -33,3 +31,13 @@
 * Python programming
   * Programmers
   * Baekjoon
+  * SWEA
+
+### Skills
+---
+<img src="http://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/Anaconda-000000?style=flat&logo=Anaconda&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
