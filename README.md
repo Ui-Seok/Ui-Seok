@@ -35,14 +35,4 @@
 
 ### Skills
 ---
-<img src="http://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="http://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="http://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="http://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="http://img.shields.io/badge/Anaconda-000000?style=flat&logo=Anaconda&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="http://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=#EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="http://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="http://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="http://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="http://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="http://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
