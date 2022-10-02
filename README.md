@@ -18,6 +18,7 @@
 * 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
 * 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
+### 🙋‍♂️ My baekjoon tier & My STAT 🔥
 
 <img align='left' width='40%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima">
 <img align='center' width='50%' src="https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark">
