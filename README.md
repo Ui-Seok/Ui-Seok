@@ -18,16 +18,16 @@
 * NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
 ### :fire: My baekjoon tier :fire:
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima)](https://solved.ac/kasasima)
 
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima)](https://solved.ac/kasasima)
+### STAT
+![Ui-Seok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark)
 
-### Study
+### Studying
 * DeepLearning Computer Vision 👀️
-  * Action Recognition
-  * 2D Detection
-  * Segmentation
 * Python programming
+* Docker
+* DB(SQL)
 
 
 ### Skills
