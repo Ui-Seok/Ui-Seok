@@ -19,9 +19,9 @@
 * 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
 
-<img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark">
-<br>
-<img align='center' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima">
+<img align='left' width='40%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima">
+<img align='center' width='50%' src="https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark">
+
 
 
 ### 🙋‍♂️ Studying 📝
