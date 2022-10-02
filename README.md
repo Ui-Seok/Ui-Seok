@@ -12,24 +12,31 @@
 <img src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=#000000&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### Experience
-* Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
-* KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
-* NAVER BOOSTCAMP AI TECH (2022.09 ~)
+### 🙋‍♂️ Experience 📚
 
-### :fire: My baekjoon tier :fire:
+* 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
+* 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
+* 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
+
+
+### 🙋‍♂️ My baekjoon tier 🔥
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima)](https://solved.ac/kasasima)
 
-### STAT
+
+### 🙋‍♂️ My STAT 📈
+
 ![Ui-Seok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark)
 
-### Studying
+
+### 🙋‍♂️ Studying 📝
+
 * DeepLearning Computer Vision 👀️
 * Python programming
 * Docker
 * DB(SQL)
 
 
-### Skills
+### 🙋‍♂️ Skills ✨
 
 <img src="http://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=3776AB" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=EE4C2C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=FF6F00" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=2496ED" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/Anaconda-000000?style=flat&logo=Anaconda&logoColor=44A833" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=E95420" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/YOLO-000000?style=flat&logo=YOLO&logoColor=00FFFF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="http://img.shields.io/badge/OpenCV-000000?style=flat&logo=OpenCV&logoColor=5C3EE8" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
