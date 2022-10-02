@@ -10,6 +10,10 @@
 <img src="http://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@ui_seok" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a href="https://ui-seok.tistory.com/">
+<img src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 --- 
 
 * Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT
