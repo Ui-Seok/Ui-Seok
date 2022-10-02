@@ -19,14 +19,9 @@
 * 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
 
-### 🙋‍♂️ My baekjoon tier 🔥
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima)](https://solved.ac/kasasima)
-
-
-### 🙋‍♂️ My STAT 📈
-
-![Ui-Seok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark)
+<img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark>
+<br>
+<img align='center' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima>
 
 
 ### 🙋‍♂️ Studying 📝
