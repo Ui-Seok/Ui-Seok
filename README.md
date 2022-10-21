@@ -12,26 +12,32 @@
 <img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+---
+
 ### 🙋‍♂️ Experience 📚
 
 * 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
 * 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
 * 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
+---
+
 ### 🙋‍♂️ My baekjoon tier & My STAT 🔥
 
 <img align='left' width='40%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kasasima">
 <img align='center' width='50%' src="https://github-readme-stats.vercel.app/api?username=Ui-Seok&show_icons=true&theme=chartreuse-dark">
 
-
+---
 
 ### 🙋‍♂️ Studying 📝
 
 * DeepLearning Computer Vision 👀️
 * Python programming
+* Linear algebra
 * Docker
 * DB(SQL)
 
+---
 
 ### 🙋‍♂️ Skills ✨
 
