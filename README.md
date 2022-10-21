@@ -36,13 +36,9 @@
 ## 🙋‍♂️ Studying 📝
 
 - DeepLearning Computer Vision 👀️
-
 - Python programming
-
 - Linear algebra
-
 - Docker
-
 - DB(SQL)
 
 
