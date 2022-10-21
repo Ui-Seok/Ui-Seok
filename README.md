@@ -16,9 +16,10 @@
 
 ## 🙋‍♂️ Experience 📚
 
-* 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
-* 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
-* 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
+- 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
+- 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
+    - Re-idnetification person, Anomaly detection, Handling SDK tools about depth camera
+- 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
 
 
 
@@ -31,11 +32,11 @@
 
 ## 🙋‍♂️ Studying 📝
 
-* DeepLearning Computer Vision 👀️
-* Python programming
-* Linear algebra
-* Docker
-* DB(SQL)
+- DeepLearning Computer Vision 👀️
+- Python programming
+- Linear algebra
+- Docker
+- DB(SQL)
 
 
 
