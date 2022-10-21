@@ -17,8 +17,11 @@
 ## 🙋‍♂️ Experience 📚
 
 - 🎓 **Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)**
+
 - 💻 **KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)**
+
     - Person Re-idnetification, Anomaly detection, Install and Handling depth camera SDK tool on raspberryPi 4
+    
 - 📗 **NAVER BOOSTCAMP AI TECH (2022.09 ~)**
 
 
