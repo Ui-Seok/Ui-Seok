@@ -22,7 +22,7 @@
 
     - Person Re-identification, Anomaly detection, Install and Handling depth camera SDK tool on raspberryPi 4
 
-- 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~)
+- 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~ 2023.02)
 
 
 
@@ -40,6 +40,7 @@
 - Linear algebra
 - Docker
 - DB(SQL)
+- Serving Tool (BentoML, MLflow)
 
 
 
