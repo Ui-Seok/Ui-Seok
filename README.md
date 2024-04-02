@@ -18,13 +18,13 @@
 
 - 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
 
-- 💻 KIST(Korea Institute of Science and Technology) Intern (2022.02 ~ 2022.08)
+- 💻 KIST(Korea Institute of Science and Technology) Undergraduate Internship (2022.02 ~ 2022.08)
 
     - Person Re-identification, Anomaly detection, Install and Handling depth camera SDK tool on raspberryPi 4
 
 - 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~ 2023.02)
 
-- 💻 KIST(Korea Institute of Science and Technology) Intern (2024.03 ~ Now)
+- 💻 KIST(Korea Institute of Science and Technology) Intern Researcher (2024.03 ~ Now)
 
 
 
