@@ -24,6 +24,8 @@
 
 - 📗 NAVER BOOSTCAMP AI TECH (2022.09 ~ 2023.02)
 
+- 💻 KIST(Korea Institute of Science and Technology) Intern (2024.03 ~ Now)
+
 
 
 ## 🙋‍♂️ My baekjoon tier & My STAT 🔥
@@ -39,8 +41,8 @@
 - Python programming
 - Linear algebra
 - Docker
-- DB(SQL)
-- Serving Tool (BentoML, MLflow)
+- DB(SQL), Kafka
+- Serving Tool (FastAPI, BentoML, MLflow, Grafana)
 
 
 
