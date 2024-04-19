@@ -12,6 +12,10 @@
 <img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a href="https://www.linkedin.com/in/uiseok-lee-34007429a/">
+<img src="http://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=LinkedIn&logoColor=#0e76a8&link=https://www.linkedin.com/in/uiseok-lee-34007429a/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 
 ## 🙋‍♂️ Experience 📚
