@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ Experience 📚
 
-- 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~)
+- 🎓 Major in Fine chemistry & Minor in Materials Science and Engineering, SNUT (2017.02 ~ 2024.02)
 
 - 💻 KIST(Korea Institute of Science and Technology) Undergraduate Internship (2022.02 ~ 2022.08)
 
