@@ -1,20 +1,5 @@
 # :star2: Ui-Seok :star2:
 
-<a href="https://blog.naver.com/lus8476">
-<img src="https://img.shields.io/badge/Naverblog-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A&link=https://blog.naver.com/lus8476" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://velog.io/@ui_seok">
-<img src="http://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=#20C997&link=https://velog.io/@ui_seok" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://ui-seok.tistory.com/">
-<img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=#000000&link=https://ui-seok.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://www.linkedin.com/in/uiseok-lee-34007429a/">
-<img src="http://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=LinkedIn&logoColor=#0e76a8&link=https://www.linkedin.com/in/uiseok-lee-34007429a/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 
 
